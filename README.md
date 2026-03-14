@@ -18,3 +18,13 @@ The similarity measures analyzed include:
 - Cosine Similarity
 
 These methods are implemented in Python and demonstrated through simple vector examples.
+
+## Project Structure
+
+The repository contains the following components:
+
+- **Final Exam Project.ipynb** – the main Jupyter notebook containing the mathematical analysis, explanations and Python implementation.
+- **README.md** – project description and documentation.
+- **LICENSE** – MIT license for open-source usage.
+
+The notebook combines theoretical explanations, mathematical formulas and Python experiments to illustrate similarity measures in vector spaces.
