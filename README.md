@@ -28,3 +28,12 @@ The repository contains the following components:
 - **LICENSE** – MIT license for open-source usage.
 
 The notebook combines theoretical explanations, mathematical formulas and Python experiments to illustrate similarity measures in vector spaces.
+
+## Technologies Used
+
+This project was implemented using the following tools:
+
+- Python
+- NumPy
+- Matplotlib
+- Jupyter Notebook
