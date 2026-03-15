@@ -37,3 +37,11 @@ This project was implemented using the following tools:
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+  ## How to Run the Project
+
+1. Clone the repository
+2. Open the Jupyter Notebook
+3. Run all cells to reproduce the analysis and visualizations
+
+The notebook demonstrates vector similarity measures and their behavior using Python and NumPy.
