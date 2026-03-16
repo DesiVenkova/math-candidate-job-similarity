@@ -45,3 +45,11 @@ This project was implemented using the following tools:
 3. Run all cells to reproduce the analysis and visualizations
 
 The notebook demonstrates vector similarity measures and their behavior using Python and NumPy.
+
+## Mathematical Background
+
+The project relies on fundamental concepts from linear algebra.
+
+Candidate profiles and job descriptions are represented as vectors in a multidimensional feature space. Similarity between vectors is measured using mathematical distance and similarity metrics.
+
+Cosine similarity measures the angle between two vectors, while Euclidean distance measures the geometric distance between them.
