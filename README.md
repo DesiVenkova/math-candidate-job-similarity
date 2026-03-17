@@ -64,3 +64,9 @@ The approach demonstrated in this project can be applied to various domains incl
 - machine learning preprocessing
 
 Vector similarity techniques are widely used in modern AI systems.
+
+## Conclusion
+
+This project demonstrates how mathematical models and vector similarity measures can be applied to real-world problems such as candidate-job matching.
+
+By combining linear algebra concepts with Python implementations, the notebook illustrates how theoretical mathematics can support practical decision-making.
